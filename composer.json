@@ -1,0 +1,13 @@
+{
+    "name": "rockncoding/kcaptcha",
+    "description": "Captcha PHP lib",
+    "type": "library",
+    "license": "BSD",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "classmap": [
+            "kcaptcha.php"
+        ]
+    }
+}
